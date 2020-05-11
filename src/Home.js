@@ -2,21 +2,20 @@ import React, { useState, useEffect } from 'react';
 import { GCFooter, GCHeader } from 'gc-tortilla';
 import ReactMarkdown from 'react-markdown';
 import { getMarkdown } from './helpers';
-import Introduction from './content/en/Introduction.md';
 import './Home.css';
 
-export default function App() {
+export default function Home(props) {
 
-    const [introMarkdown, setIntroMarkdown] = useState(null);
+    const [intro, setIntro] = useState(null);
 
     useEffect(() => {
-        setIntroMarkdown(getMarkdown(Introduction, setIntroMarkdown));
+        setIntro(getMarkdown(props.intro, setIntro));
     },[]);
 
     return (
-        <div className="app">
+        <div className="home">
             <GCHeader/>
-            <ReactMarkdown source={introMarkdown}/>
+            <ReactMarkdown source={intro}/>
             <GCFooter theme="light"/>
         </div>
     );

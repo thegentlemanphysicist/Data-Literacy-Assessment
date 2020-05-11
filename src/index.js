@@ -8,7 +8,7 @@ import * as serviceWorker from './serviceWorker';
 if (document.documentElement.lang === "fr"){
     ReactDOM.render(
         <React.StrictMode>
-          <App_EN />
+          <App_FR />
         </React.StrictMode>,
         document.getElementById('root')
       );
@@ -16,7 +16,7 @@ if (document.documentElement.lang === "fr"){
 else {
     ReactDOM.render(
         <React.StrictMode>
-          <App_FR />
+          <App_EN />
         </React.StrictMode>,
         document.getElementById('root')
       );
