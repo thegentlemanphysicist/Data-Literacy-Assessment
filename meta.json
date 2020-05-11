@@ -1,0 +1,16 @@
+{
+    "en": {
+        "lang": "en",
+        "title": "Data Literacy Assessment",
+        "description": "This self-evaluation will help you to identify your strengths, gaps and better understand the required skills that are needed to work on  data-related projects.",
+        "url": "/",
+        "image": "/"
+    },
+    "fr": {
+        "lang": "fr",
+        "title": "Évaluation de la maîtrise des données",
+        "description": "Cette auto-évaluation vous aidera à identifier vos points forts, vos lacunes et à mieux comprendre les compétences requises pour travailler sur des projets liés aux données.",
+        "url": "/",
+        "image": "/"
+    }
+}

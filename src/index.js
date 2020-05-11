@@ -1,15 +1,26 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import App_EN from './App_EN';
+import App_FR from './App_FR';
 import * as serviceWorker from './serviceWorker';
 
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
+if (document.documentElement.lang === "fr"){
+    ReactDOM.render(
+        <React.StrictMode>
+          <App_EN />
+        </React.StrictMode>,
+        document.getElementById('root')
+      );
+}
+else {
+    ReactDOM.render(
+        <React.StrictMode>
+          <App_FR />
+        </React.StrictMode>,
+        document.getElementById('root')
+      );
+}
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
