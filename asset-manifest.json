@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/data-literacy-assessment/static/css/main.d6e1241f.chunk.css",
+    "main.js": "/data-literacy-assessment/static/js/main.1c11499b.chunk.js",
+    "main.js.map": "/data-literacy-assessment/static/js/main.1c11499b.chunk.js.map",
+    "runtime-main.js": "/data-literacy-assessment/static/js/runtime-main.470ca364.js",
+    "runtime-main.js.map": "/data-literacy-assessment/static/js/runtime-main.470ca364.js.map",
+    "static/css/2.3082a726.chunk.css": "/data-literacy-assessment/static/css/2.3082a726.chunk.css",
+    "static/js/2.9bb96c2b.chunk.js": "/data-literacy-assessment/static/js/2.9bb96c2b.chunk.js",
+    "static/js/2.9bb96c2b.chunk.js.map": "/data-literacy-assessment/static/js/2.9bb96c2b.chunk.js.map",
+    "index.html": "/data-literacy-assessment/index.html",
+    "precache-manifest.36f1b2f1215eb2053c32746f9caa2a04.js": "/data-literacy-assessment/precache-manifest.36f1b2f1215eb2053c32746f9caa2a04.js",
+    "service-worker.js": "/data-literacy-assessment/service-worker.js",
+    "static/css/2.3082a726.chunk.css.map": "/data-literacy-assessment/static/css/2.3082a726.chunk.css.map",
+    "static/css/main.d6e1241f.chunk.css.map": "/data-literacy-assessment/static/css/main.d6e1241f.chunk.css.map",
+    "static/js/2.9bb96c2b.chunk.js.LICENSE.txt": "/data-literacy-assessment/static/js/2.9bb96c2b.chunk.js.LICENSE.txt",
+    "static/media/Introduction.md": "/data-literacy-assessment/static/media/Introduction.f1e30137.md"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.470ca364.js",
+    "static/css/2.3082a726.chunk.css",
+    "static/js/2.9bb96c2b.chunk.js",
+    "static/css/main.d6e1241f.chunk.css",
+    "static/js/main.1c11499b.chunk.js"
+  ]
+}
