@@ -39,9 +39,12 @@ export default function Survey(props) {
     }
 
     return (
-        <SurveyJS.Survey
-            model={model}
-            onComplete={onComplete}
-        />
+        <div>
+            <button onClick={() => props.startSurvey(false)}>{props.t["Restart"]}</button>
+            <SurveyJS.Survey
+                model={model}
+                onComplete={onComplete}
+            />
+        </div>
     );
 }

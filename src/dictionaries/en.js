@@ -2,5 +2,6 @@ export default {
     "getLocale": "en",
     "getOppositeLocale": "fr",
     "getOppositeLang": "Français",
-    "Next": "Next"
+    "Start Assessment": "Start Assessment",
+    "Restart": "Restart"
 }
