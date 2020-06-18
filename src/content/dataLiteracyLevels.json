@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Novice",
+        "score": {
+            "min": 0,
+            "max": 5
+        }
+    },
+    {
+        "title": "Apprentice",
+        "score": {
+            "min": 6,
+            "max": 15
+        }
+    },
+    {
+        "title": "Practitioner",
+        "score": {
+            "min": 16,
+            "max": 25
+        }
+    },
+    {
+        "title": "Expert",
+        "score": {
+            "min": 26,
+            "max": 33
+        }
+    }
+]
