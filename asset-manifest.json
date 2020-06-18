@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/Data-Literacy-Assessment/static/css/main.d6e1241f.chunk.css",
-    "main.js": "/Data-Literacy-Assessment/static/js/main.53800dfd.chunk.js",
-    "main.js.map": "/Data-Literacy-Assessment/static/js/main.53800dfd.chunk.js.map",
+    "main.js": "/Data-Literacy-Assessment/static/js/main.15db7857.chunk.js",
+    "main.js.map": "/Data-Literacy-Assessment/static/js/main.15db7857.chunk.js.map",
     "runtime-main.js": "/Data-Literacy-Assessment/static/js/runtime-main.ca14483d.js",
     "runtime-main.js.map": "/Data-Literacy-Assessment/static/js/runtime-main.ca14483d.js.map",
     "static/css/2.3082a726.chunk.css": "/Data-Literacy-Assessment/static/css/2.3082a726.chunk.css",
-    "static/js/2.baaba3db.chunk.js": "/Data-Literacy-Assessment/static/js/2.baaba3db.chunk.js",
-    "static/js/2.baaba3db.chunk.js.map": "/Data-Literacy-Assessment/static/js/2.baaba3db.chunk.js.map",
+    "static/js/2.52f1212b.chunk.js": "/Data-Literacy-Assessment/static/js/2.52f1212b.chunk.js",
+    "static/js/2.52f1212b.chunk.js.map": "/Data-Literacy-Assessment/static/js/2.52f1212b.chunk.js.map",
     "index.html": "/Data-Literacy-Assessment/index.html",
-    "precache-manifest.4763fe697f9a03c771ab39a632bd939d.js": "/Data-Literacy-Assessment/precache-manifest.4763fe697f9a03c771ab39a632bd939d.js",
+    "precache-manifest.ca0b52d850dd9885cad702af35e68cd6.js": "/Data-Literacy-Assessment/precache-manifest.ca0b52d850dd9885cad702af35e68cd6.js",
     "service-worker.js": "/Data-Literacy-Assessment/service-worker.js",
     "static/css/2.3082a726.chunk.css.map": "/Data-Literacy-Assessment/static/css/2.3082a726.chunk.css.map",
     "static/css/main.d6e1241f.chunk.css.map": "/Data-Literacy-Assessment/static/css/main.d6e1241f.chunk.css.map",
-    "static/js/2.baaba3db.chunk.js.LICENSE.txt": "/Data-Literacy-Assessment/static/js/2.baaba3db.chunk.js.LICENSE.txt",
+    "static/js/2.52f1212b.chunk.js.LICENSE.txt": "/Data-Literacy-Assessment/static/js/2.52f1212b.chunk.js.LICENSE.txt",
     "static/media/Introduction.md": "/Data-Literacy-Assessment/static/media/Introduction.f1e30137.md"
   },
   "entrypoints": [
     "static/js/runtime-main.ca14483d.js",
     "static/css/2.3082a726.chunk.css",
-    "static/js/2.baaba3db.chunk.js",
+    "static/js/2.52f1212b.chunk.js",
     "static/css/main.d6e1241f.chunk.css",
-    "static/js/main.53800dfd.chunk.js"
+    "static/js/main.15db7857.chunk.js"
   ]
 }
