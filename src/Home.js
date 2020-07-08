@@ -23,7 +23,7 @@ export default function Home(props) {
 
     return (
         <div className="home">
-            {/* <ChildLock password="beta" background={{image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2252&q=80"}}/> */}
+            <ChildLock password="beta" background={{image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2252&q=80"}}/>
             <GCHeader/>
             {!surveyResults &&
                 <React.Fragment>
