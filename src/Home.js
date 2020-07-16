@@ -1,8 +1,9 @@
 import React, { useState, useEffect } from 'react';
-import { GCFooter, GCHeader } from 'gc-tortilla';
+import { GCFooter } from 'gc-tortilla';
 import ChildLock from 'react-child-lock';
 import ReactMarkdown from 'react-markdown';
 import { getMarkdown } from './helpers';
+import Header from './components/Header';
 import Survey from './components/Survey';
 import Persona from './components/Persona';
 import './Home.css';
@@ -23,8 +24,8 @@ export default function Home(props) {
 
     return (
         <div className="home">
-            <ChildLock password="beta" background={{image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2252&q=80"}}/>
-            <GCHeader/>
+            {/* <ChildLock password="beta" background={{image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2252&q=80"}}/> */}
+            <Header/>
             {!surveyResults &&
                 <React.Fragment>
                     {!startedSurvey &&
