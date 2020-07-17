@@ -8,11 +8,13 @@
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 code {
@@ -20,11 +22,17 @@ code {
     monospace;
 }
 
-button.dark {
-    padding: 10px 25px;
-    border-radius: 5px;
-    border: solid #434E63 1px;
-    color: white;
-    background-color: var(--csps-grey);
-    cursor: pointer;
+button, .sv_nav input {
+    padding: 10px 25px !important;
+    border-radius: 5px !important;
+    border: solid 1px !important;
+    cursor: pointer !important;
+    border-color: #434E63 !important;
+    color: white !important;
+    background-color: var(--csps-grey) !important;
+}
+button.light {
+    border-color: #C0C5CF !important;
+    color: black !important;
+    background-color: #D6DAE1 !important;
 }

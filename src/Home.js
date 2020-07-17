@@ -23,11 +23,9 @@ export default function Home(props) {
         getMarkdown(props.markdown.WhoShouldUseThisAssessment, setWhoShouldUse);
     },[]);
 
-    console.log(surveyResults);
-
     return (
         <div className={styles.home}>
-            {/* <ChildLock password="beta" background={{image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2252&q=80"}}/> */}
+            <ChildLock password="beta" background={{image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2252&q=80"}}/>
             <Header/>
             {!surveyResults &&
                 <React.Fragment>
@@ -46,7 +44,7 @@ export default function Home(props) {
                                 <div>
                                     <h2>{props.t["Who Should Use this Assessment"]}</h2>
                                     <ReactMarkdown source={whoShouldUse}/>
-                                    <button className="dark" onClick={() => startSurvey(true)}>{props.t["Start Assessment"]}</button>
+                                    <button onClick={() => startSurvey(true)}>{props.t["Start Assessment"]}</button>
                                 </div>
                             </div>
                         </div>

@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    flex: 1;
+}
+
+.survey {
+    background-color: white;
+}
+
+.survey div {
+    max-width: 950px;
+}
+
+.restartButton {
+    float: left;
+    margin-right: 5px;
+}
+
+.decoration {
+    flex: 1;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+}
