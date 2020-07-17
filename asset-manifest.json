@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "/Data-Literacy-Assessment/static/css/main.d6e1241f.chunk.css",
-    "main.js": "/Data-Literacy-Assessment/static/js/main.00e66aaa.chunk.js",
-    "main.js.map": "/Data-Literacy-Assessment/static/js/main.00e66aaa.chunk.js.map",
+    "main.css": "/Data-Literacy-Assessment/static/css/main.78248a65.chunk.css",
+    "main.js": "/Data-Literacy-Assessment/static/js/main.1947fc0e.chunk.js",
+    "main.js.map": "/Data-Literacy-Assessment/static/js/main.1947fc0e.chunk.js.map",
     "runtime-main.js": "/Data-Literacy-Assessment/static/js/runtime-main.ca14483d.js",
     "runtime-main.js.map": "/Data-Literacy-Assessment/static/js/runtime-main.ca14483d.js.map",
     "static/css/2.3082a726.chunk.css": "/Data-Literacy-Assessment/static/css/2.3082a726.chunk.css",
-    "static/js/2.52f1212b.chunk.js": "/Data-Literacy-Assessment/static/js/2.52f1212b.chunk.js",
-    "static/js/2.52f1212b.chunk.js.map": "/Data-Literacy-Assessment/static/js/2.52f1212b.chunk.js.map",
+    "static/js/2.5e9940ac.chunk.js": "/Data-Literacy-Assessment/static/js/2.5e9940ac.chunk.js",
+    "static/js/2.5e9940ac.chunk.js.map": "/Data-Literacy-Assessment/static/js/2.5e9940ac.chunk.js.map",
     "index.html": "/Data-Literacy-Assessment/index.html",
-    "precache-manifest.148b7fe5941a889cad6b0bc24f529eeb.js": "/Data-Literacy-Assessment/precache-manifest.148b7fe5941a889cad6b0bc24f529eeb.js",
+    "precache-manifest.cf884065e5008b70a24f5c5611b86137.js": "/Data-Literacy-Assessment/precache-manifest.cf884065e5008b70a24f5c5611b86137.js",
     "service-worker.js": "/Data-Literacy-Assessment/service-worker.js",
     "static/css/2.3082a726.chunk.css.map": "/Data-Literacy-Assessment/static/css/2.3082a726.chunk.css.map",
-    "static/css/main.d6e1241f.chunk.css.map": "/Data-Literacy-Assessment/static/css/main.d6e1241f.chunk.css.map",
-    "static/js/2.52f1212b.chunk.js.LICENSE.txt": "/Data-Literacy-Assessment/static/js/2.52f1212b.chunk.js.LICENSE.txt",
-    "static/media/Introduction.md": "/Data-Literacy-Assessment/static/media/Introduction.f1e30137.md"
+    "static/css/main.78248a65.chunk.css.map": "/Data-Literacy-Assessment/static/css/main.78248a65.chunk.css.map",
+    "static/js/2.5e9940ac.chunk.js.LICENSE.txt": "/Data-Literacy-Assessment/static/js/2.5e9940ac.chunk.js.LICENSE.txt",
+    "static/media/HowDataLiterateAreYou.md": "/Data-Literacy-Assessment/static/media/HowDataLiterateAreYou.8e97a193.md",
+    "static/media/Purpose.md": "/Data-Literacy-Assessment/static/media/Purpose.bee93182.md",
+    "static/media/WhoShouldUseThisAssessment.md": "/Data-Literacy-Assessment/static/media/WhoShouldUseThisAssessment.f8c8ccf1.md",
+    "static/media/decoration.png": "/Data-Literacy-Assessment/static/media/decoration.99311a58.png",
+    "static/media/discoverDataLogo.png": "/Data-Literacy-Assessment/static/media/discoverDataLogo.e0d98e17.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ca14483d.js",
     "static/css/2.3082a726.chunk.css",
-    "static/js/2.52f1212b.chunk.js",
-    "static/css/main.d6e1241f.chunk.css",
-    "static/js/main.00e66aaa.chunk.js"
+    "static/js/2.5e9940ac.chunk.js",
+    "static/css/main.78248a65.chunk.css",
+    "static/js/main.1947fc0e.chunk.js"
   ]
 }
