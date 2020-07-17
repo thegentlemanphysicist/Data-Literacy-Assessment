@@ -1,17 +1,18 @@
-.header {
+.footer {
+    height: 64px;
+    background-color: #F7F7F7;
+
     display: flex;
     justify-content: space-between;
-    height: 84px;
-    background-color: var(--csps-purple);
     padding: 20px 30px;
     box-sizing: border-box;
 }
 
-.header img {
+.footer img {
     object-fit: contain;
     object-position: left;
 }
 
-.header img:last-of-type {
+.footer img:last-of-type {
     object-position: right;
 }

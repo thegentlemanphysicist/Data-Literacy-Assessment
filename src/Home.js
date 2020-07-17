@@ -1,37 +1,54 @@
 import React, { useState, useEffect } from 'react';
-import { GCFooter } from 'gc-tortilla';
 import ChildLock from 'react-child-lock';
 import ReactMarkdown from 'react-markdown';
 import { getMarkdown } from './helpers';
 import Header from './components/Header';
 import Survey from './components/Survey';
 import Persona from './components/Persona';
-import './Home.css';
-
-
+import Footer from './components/Footer';
+import styles from './Home.module.css';
 
 export default function Home(props) {
 
     const [startedSurvey, startSurvey] = useState(false);
-    const [intro, setIntro] = useState(null);
     const [surveyResults, setSurveyResults] = useState(null);
 
+    const [howDataLiterate, setHowDataLiterate] = useState(null);
+    const [purpose, setPurpose] = useState(null);
+    const [whoShouldUse, setWhoShouldUse] = useState(null);
+
     useEffect(() => {
-        setIntro(getMarkdown(props.intro, setIntro));
+        getMarkdown(props.markdown.HowDataLiterateAreYou, setHowDataLiterate);
+        getMarkdown(props.markdown.Purpose, setPurpose);
+        getMarkdown(props.markdown.WhoShouldUseThisAssessment, setWhoShouldUse);
     },[]);
 
     console.log(surveyResults);
 
     return (
-        <div className="home">
+        <div className={styles.home}>
             {/* <ChildLock password="beta" background={{image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2252&q=80"}}/> */}
             <Header/>
             {!surveyResults &&
                 <React.Fragment>
                     {!startedSurvey &&
-                        <div>
-                            <ReactMarkdown source={intro}/>
-                            <button onClick={() => startSurvey(true)}>{props.t["Start Assessment"]}</button>
+                        <div className={styles.contentContainer}>
+                            <h1>{props.t["Data Literacy and Persona Assessment"]}</h1>
+                            <div className={styles.introContent}>
+                                <div>
+                                    <h2>{props.t["How Data Literate Are You?"]}</h2>
+                                    <ReactMarkdown source={howDataLiterate}/>
+                                </div>
+                                <div>
+                                    <h2>{props.t["Purpose"]}</h2>
+                                    <ReactMarkdown source={purpose}/>
+                                </div>
+                                <div>
+                                    <h2>{props.t["Who Should Use this Assessment"]}</h2>
+                                    <ReactMarkdown source={whoShouldUse}/>
+                                    <button className="dark" onClick={() => startSurvey(true)}>{props.t["Start Assessment"]}</button>
+                                </div>
+                            </div>
                         </div>
                     }
                     {startedSurvey &&
@@ -42,7 +59,7 @@ export default function Home(props) {
             {surveyResults &&
                 <Persona t={props.t} surveyResults={surveyResults}/>
             }
-            <GCFooter theme="light"/>
+            <Footer/>
         </div>
     );
 }
