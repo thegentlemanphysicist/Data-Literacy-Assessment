@@ -37,7 +37,7 @@ export default function Persona(props) {
 
         for (let skill in props.surveyResults){
             if (typeof(props.surveyResults[skill]) === "number"){
-                score += props.surveyResults[skill] - 1;
+                score += props.surveyResults[skill];
             }
         }
 

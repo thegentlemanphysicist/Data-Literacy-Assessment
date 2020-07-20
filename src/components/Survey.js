@@ -56,7 +56,7 @@ export default function Survey(props) {
             let question = questions.find(q => q.name === answer);
 
             if (question.type === "radiogroup"){
-                results[answer] = question.choices.indexOf(results[answer]) + 1;
+                results[answer] = question.choices.indexOf(results[answer]);
             }
 
         }
