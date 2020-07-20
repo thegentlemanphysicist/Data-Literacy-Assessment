@@ -1,6 +1,7 @@
 [
     {
         "title": "Front Line",
+        "emoji": "📈",
         "skills": {
             "askQuestions": [0,1],
             "find": [0,1],
@@ -16,6 +17,7 @@
 
     {
         "title": "Analyst",
+        "emoji": "📊",
         "skills": {
             "askQuestions": [1,2],
             "find": [1,2],
@@ -31,6 +33,7 @@
 
     {
         "title": "Data Scientist",
+        "emoji": "🥼",
         "skills": {
             "askQuestions": [2,3],
             "find": [2,3],
@@ -46,6 +49,7 @@
 
     {
         "title": "Data Steward",
+        "emoji": "📋",
         "skills": {
             "askQuestions": [1,2],
             "find": [2,3],
@@ -61,6 +65,7 @@
 
     {
         "title": "IT",
+        "emoji": "💻",
         "skills": {
             "askQuestions": [3],
             "find": [3],
@@ -76,6 +81,7 @@
 
     {
         "title": "Executive",
+        "emoji": "👔",
         "skills": {
             "dataCulture": [2,3],
             "dataEthicsAndSecurity": [2,3],

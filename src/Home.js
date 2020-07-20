@@ -55,7 +55,7 @@ export default function Home(props) {
                 </React.Fragment>
             }
             {surveyResults &&
-                <Persona t={props.t} surveyResults={surveyResults}/>
+                <Persona t={props.t} surveyResults={surveyResults} markdown={props.markdown}/>
             }
             <Footer/>
         </div>

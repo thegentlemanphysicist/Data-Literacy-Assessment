@@ -1,0 +1,29 @@
+.resultsPage {
+    background-color: white;
+}
+
+.resultBox {
+    display: flex;
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: var(--csps-light-grey);
+    border-radius: 12px;
+}
+
+.resultBox h3 {
+    margin-top: 0;
+}
+
+.emoji {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5.5rem;
+    height: 140px;
+    width: 140px;
+    min-width: 140px;
+    margin-right: 20px;
+    border-radius: 50%;
+    background-color: white;
+}

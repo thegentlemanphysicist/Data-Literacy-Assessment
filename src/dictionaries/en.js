@@ -7,5 +7,18 @@ export default {
     "Purpose": "Purpose",
     "Who Should Use this Assessment": "Who Should Use this Assessment",
     "Start Assessment": "Start Assessment",
-    "Restart": "Restart"
+    "Restart": "Restart",
+    "Assessment results": "Assessment results",
+    "Data Persona": "Data Persona",
+    "Data Literacy Level": "Data Literacy Level",
+    "Front Line": "Front Line",
+    "Analyst": "Analyst",
+    "Data Scientist": "Data Scientist",
+    "Data Steward": "Data Steward",
+    "IT": "IT",
+    "Executive": "Executive",
+    "Novice": "Novice",
+    "Apprentice": "Apprentice",
+    "Practitioner": "Practitioner",
+    "Expert": "Expert"
 }
