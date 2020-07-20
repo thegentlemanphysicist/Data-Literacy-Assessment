@@ -2,92 +2,92 @@
     {
         "title": "Front Line",
         "skills": {
-            "askQuestions": [1,2],
-            "find": [1,2],
-            "get": [1,2],
-            "verify": [1,2],
-            "clean": [1,2],
-            "analyze": [1,2],
-            "visualize": [1,2],
-            "communicate": [1,2],
-            "assessAndInterpret": [1,2]
+            "askQuestions": [0,1],
+            "find": [0,1],
+            "get": [0,1],
+            "verify": [0,1],
+            "clean": [0,1],
+            "analyze": [0,1],
+            "visualize": [0,1],
+            "communicate": [0,1],
+            "assessAndInterpret": [0,1]
         }
     },
 
     {
         "title": "Analyst",
         "skills": {
-            "askQuestions": [2,3],
-            "find": [2,3],
-            "get": [1,2],
-            "verify": [1,2],
-            "clean": [2],
-            "analyze": [1,2],
-            "visualize": [2,3,4],
-            "communicate": [3,4],
-            "assessAndInterpret": [2,3]
+            "askQuestions": [1,2],
+            "find": [1,2],
+            "get": [0,1],
+            "verify": [0,1],
+            "clean": [1],
+            "analyze": [0,1],
+            "visualize": [1,2,3],
+            "communicate": [2,3],
+            "assessAndInterpret": [1,2]
         }
     },
 
     {
         "title": "Data Scientist",
         "skills": {
-            "askQuestions": [3,4],
-            "find": [3,4],
-            "get": [3,4],
-            "verify": [3,4],
-            "clean": [3,4],
-            "analyze": [3,4],
-            "visualize": [3,4],
-            "communicate": [3,4],
-            "assessAndInterpret": [3,4]
+            "askQuestions": [2,3],
+            "find": [2,3],
+            "get": [2,3],
+            "verify": [2,3],
+            "clean": [2,3],
+            "analyze": [2,3],
+            "visualize": [2,3],
+            "communicate": [2,3],
+            "assessAndInterpret": [2,3]
         }
     },
 
     {
         "title": "Data Steward",
         "skills": {
-            "askQuestions": [2,3],
-            "find": [3,4],
-            "get": [2,3],
-            "verify": [3,4],
-            "clean": [3,4],
-            "analyze": [1,2],
-            "visualize": [2,3],
-            "communicate": [2,3],
-            "assessAndInterpret": [3,4]
+            "askQuestions": [1,2],
+            "find": [2,3],
+            "get": [1,2],
+            "verify": [2,3],
+            "clean": [2,3],
+            "analyze": [0,1],
+            "visualize": [1,2],
+            "communicate": [1,2],
+            "assessAndInterpret": [2,3]
         }
     },
 
     {
         "title": "IT",
         "skills": {
-            "askQuestions": [4],
-            "find": [4],
-            "get": [3,4],
-            "verify": [4],
-            "clean": [3,4],
-            "analyze": [2,3],
-            "visualize": [2,3],
-            "communicate": [2,3],
-            "assessAndInterpret": [3,4]
+            "askQuestions": [3],
+            "find": [3],
+            "get": [2,3],
+            "verify": [3],
+            "clean": [2,3],
+            "analyze": [1,2],
+            "visualize": [1,2],
+            "communicate": [1,2],
+            "assessAndInterpret": [2,3]
         }
     },
 
     {
         "title": "Executive",
         "skills": {
-            "dataCulture": [3,4],
-            "dataEthicsAndSecurity": [3,4],
-            "askQuestions": [1,2],
-            "find": [2,3],
-            "get": [1,2],
-            "verify": [1,2],
-            "clean": [1,2],
-            "analyze": [1,2],
-            "visualize": [2,3],
-            "communicate": [2,3],
-            "assessAndInterpret": [1,2,3]
+            "dataCulture": [2,3],
+            "dataEthicsAndSecurity": [2,3],
+            "askQuestions": [0,1],
+            "find": [1,2],
+            "get": [0,1],
+            "verify": [0,1],
+            "clean": [0,1],
+            "analyze": [0,1],
+            "visualize": [1,2],
+            "communicate": [1,2],
+            "assessAndInterpret": [0,1,2]
         }
     }
 ]

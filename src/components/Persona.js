@@ -6,32 +6,41 @@ import './Persona.css';
 export default function Persona(props) {
 
     const [persona, setPersona] = useState(null);
+    const [literacyLevel, setLiteracyLevel] = useState(null);
 
     useEffect(() => {
         if (props.surveyResults){
             findPersona();
+            findLiteracyLevel();
         }
     },[props.surveyResults])
 
     function findPersona() {
-        let found = personas.find(persona => {
+        let found;
+        personas.forEach(persona => {
+            let skillCount = 0;
+            let skillsFound = 0;
             for (let skill in persona.skills){
-                if (!persona.skills[skill].includes(props.surveyResults[skill])){
-                    return false;
+                if (persona.skills[skill].includes(props.surveyResults[skill])){
+                    skillsFound++;
                 }
+                skillCount++;
             }
-            return true
+
+            let personaPercentage = skillsFound / skillCount;
+
+            if (!found || personaPercentage > found.personaPercentage){
+                found = {
+                    personaPercentage: personaPercentage,
+                    ...persona
+                };
+            }
+
         });
-        if (found){
-            setPersona(found);
-        }
-        else{
-            setPersona(findPersonaBackup());
-        }
-        
+        setPersona(found);
     }
 
-    function findPersonaBackup() {
+    function findLiteracyLevel() {
 
         let score = 0;
 
@@ -47,9 +56,7 @@ export default function Persona(props) {
             }
         })
 
-        return {
-            title: `Backup weighting used: You are a ${level.title} with a score of ${score}`
-        }
+        setLiteracyLevel(level);
     }
     
 
@@ -57,6 +64,9 @@ export default function Persona(props) {
         <div>
             {persona &&
                 <h1>{persona.title}</h1>
+            }
+            {literacyLevel &&
+                <h1>{literacyLevel.title}</h1>
             }
         </div>
     );
