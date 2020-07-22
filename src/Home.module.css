@@ -10,7 +10,8 @@
     max-width: 70%;
     margin: 0 auto;
     padding: 10px 35px 50px 35px;
-    background-color: white
+    background-color: white;
+    box-shadow: 0 0 20px rgb(0 0 0 / 0.15);
 }
 
 .introContent {
