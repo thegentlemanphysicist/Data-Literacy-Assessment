@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Data-Literacy-Assessment/static/css/main.a1b9e71b.chunk.css",
+    "main.css": "/Data-Literacy-Assessment/static/css/main.85b820b6.chunk.css",
     "main.js": "/Data-Literacy-Assessment/static/js/main.15ddcb9c.chunk.js",
     "main.js.map": "/Data-Literacy-Assessment/static/js/main.15ddcb9c.chunk.js.map",
     "runtime-main.js": "/Data-Literacy-Assessment/static/js/runtime-main.ca14483d.js",
@@ -9,10 +9,10 @@
     "static/js/2.facf6a98.chunk.js": "/Data-Literacy-Assessment/static/js/2.facf6a98.chunk.js",
     "static/js/2.facf6a98.chunk.js.map": "/Data-Literacy-Assessment/static/js/2.facf6a98.chunk.js.map",
     "index.html": "/Data-Literacy-Assessment/index.html",
-    "precache-manifest.fc7915a1c7e2080b3bad8a08d83b64fd.js": "/Data-Literacy-Assessment/precache-manifest.fc7915a1c7e2080b3bad8a08d83b64fd.js",
+    "precache-manifest.5e76d93cb732112f89077f095283a6fd.js": "/Data-Literacy-Assessment/precache-manifest.5e76d93cb732112f89077f095283a6fd.js",
     "service-worker.js": "/Data-Literacy-Assessment/service-worker.js",
     "static/css/2.3082a726.chunk.css.map": "/Data-Literacy-Assessment/static/css/2.3082a726.chunk.css.map",
-    "static/css/main.a1b9e71b.chunk.css.map": "/Data-Literacy-Assessment/static/css/main.a1b9e71b.chunk.css.map",
+    "static/css/main.85b820b6.chunk.css.map": "/Data-Literacy-Assessment/static/css/main.85b820b6.chunk.css.map",
     "static/js/2.facf6a98.chunk.js.LICENSE.txt": "/Data-Literacy-Assessment/static/js/2.facf6a98.chunk.js.LICENSE.txt",
     "static/media/Analyst.md": "/Data-Literacy-Assessment/static/media/Analyst.6d8fb8db.md",
     "static/media/Apprentice.md": "/Data-Literacy-Assessment/static/media/Apprentice.b6b30722.md",
@@ -38,7 +38,7 @@
     "static/js/runtime-main.ca14483d.js",
     "static/css/2.3082a726.chunk.css",
     "static/js/2.facf6a98.chunk.js",
-    "static/css/main.a1b9e71b.chunk.css",
+    "static/css/main.85b820b6.chunk.css",
     "static/js/main.15ddcb9c.chunk.js"
   ]
 }

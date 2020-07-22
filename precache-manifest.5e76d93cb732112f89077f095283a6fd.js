@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "967426624cbe1726d7710769cd423cf3",
+    "revision": "7f53b14fab2d00cb67691fb817dedc12",
     "url": "/Data-Literacy-Assessment/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Data-Literacy-Assessment/static/css/2.3082a726.chunk.css"
   },
   {
-    "revision": "979419e3da23a3ad6e93",
-    "url": "/Data-Literacy-Assessment/static/css/main.a1b9e71b.chunk.css"
+    "revision": "2cd9b600f306c4482182",
+    "url": "/Data-Literacy-Assessment/static/css/main.85b820b6.chunk.css"
   },
   {
     "revision": "02af56fe3a4dce63902c",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Data-Literacy-Assessment/static/js/2.facf6a98.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "979419e3da23a3ad6e93",
+    "revision": "2cd9b600f306c4482182",
     "url": "/Data-Literacy-Assessment/static/js/main.15ddcb9c.chunk.js"
   },
   {
