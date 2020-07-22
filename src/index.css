@@ -17,12 +17,27 @@ h1, h2, h3, h4 {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+h1 {
+    font-size: 2.75rem;
+}
+
+h2 {
+    font-size: 2.125rem;
+    font-weight: normal;
+}
+
+p, li {
+    font-size: 1.125rem;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
 
 button, .sv_nav input {
+    font-size: 0.75rem !important;
+    font-weight: normal !important;
     padding: 10px 25px !important;
     border-radius: 5px !important;
     border: solid 1px !important;

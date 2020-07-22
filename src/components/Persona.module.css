@@ -5,12 +5,21 @@
     padding: 30px;
 }
 
+.title {
+    font-size: 2.125rem;
+    font-weight: normal;
+    margin-top: 5px;
+}
+
 .saveAsPDF {
     float: right;
     margin-top: 20px;
 }
 
 .resultTypeHeading {
+    font-size: 1.125rem;
+    font-weight: bold;
+    font-family: Helvetica, Arial, sans-serif !important;
     border-bottom: solid black 1px;
     border-radius: 1px;
     padding-bottom: 10px;
@@ -26,6 +35,12 @@
 
 .resultBox h3 {
     margin-top: 0;
+    font-size: 1.25rem;
+    font-weight: normal;
+}
+
+.resultBox p, .resultBox li {
+    font-size: 1rem;
 }
 
 .emoji {

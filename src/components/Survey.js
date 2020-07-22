@@ -66,9 +66,9 @@ export default function Survey(props) {
 
     return (
         <div className={styles.container}>
-            <div className={styles.decoration} style={{
+            {/* <div className={styles.decoration} style={{
                 backgroundImage: `url(${Decoration})`
-            }}/>
+            }}/> */}
             <div className={styles.survey}>
                 <SurveyJS.Survey
                     model={model}

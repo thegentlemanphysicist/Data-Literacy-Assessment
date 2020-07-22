@@ -94,7 +94,7 @@ export default function Persona(props) {
 
     return (
         <div className={styles.resultsPage}>
-            <h1>{props.t["Assessment results"]}</h1>
+            <h1 className={styles.title}>{props.t["Assessment results"]}</h1>
             <ReactMarkdown source={assessmentResultsMD}/>
             <button className={styles.saveAsPDF + " light"} onClick={saveAsPDF}>{props.t["Download as pdf"]}</button>
             {persona && literacyLevel &&
