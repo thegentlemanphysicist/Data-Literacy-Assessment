@@ -1,11 +1,24 @@
 .resultsPage {
+    max-width: 950px;
+    margin: 0 auto;
     background-color: white;
+    padding: 30px;
+}
+
+.saveAsPDF {
+    float: right;
+    margin-top: 20px;
+}
+
+.resultTypeHeading {
+    border-bottom: solid black 1px;
+    border-radius: 1px;
+    padding-bottom: 10px;
+    clear: both;
 }
 
 .resultBox {
     display: flex;
-    max-width: 90%;
-    margin: 0 auto;
     padding: 20px;
     background-color: var(--csps-light-grey);
     border-radius: 12px;
@@ -26,4 +39,5 @@
     margin-right: 20px;
     border-radius: 50%;
     background-color: white;
+    user-select: none;
 }

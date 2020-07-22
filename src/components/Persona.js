@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import html2pdf from 'html2pdf.js';
 import ReactMarkdown from 'react-markdown';
 import { getMarkdown } from '../helpers';
 import personas from '../content/personas.json';
@@ -75,15 +76,30 @@ export default function Persona(props) {
 
         getMarkdown(props.markdown.literacyLevels[level.title.replace(/\s/g, '')], setLiteracyLevelMD);
     }
+
+    function saveAsPDF() {
+        let root = document.getElementById("root");
+
+        let options = {
+            filename: props.t["Data Literacy and Persona Assessment"] + ".pdf",
+            image: { type: 'jpeg', quality: 0.98 },
+            pagebreak: {
+                mode: 'avoid-all'
+            }
+        };
+
+        html2pdf().set(options).from(root).save();
+    }
     
 
     return (
         <div className={styles.resultsPage}>
             <h1>{props.t["Assessment results"]}</h1>
             <ReactMarkdown source={assessmentResultsMD}/>
+            <button className={styles.saveAsPDF + " light"} onClick={saveAsPDF}>{props.t["Download as pdf"]}</button>
             {persona && literacyLevel &&
                 <React.Fragment>
-                    <h2>{props.t["Data Persona"]}</h2>
+                    <h2 className={styles.resultTypeHeading}>1. {props.t["Data Persona"]}</h2>
                     <div className={styles.resultBox}>
                         <div className={styles.emoji}>{persona.emoji}</div>
                         <div>
@@ -92,7 +108,7 @@ export default function Persona(props) {
                         </div>
                     </div>
                     <ReactMarkdown source={aboutDataPersonaMD}/>
-                    <h2>{props.t["Data Literacy Level"]}</h2>
+                    <h2 className={styles.resultTypeHeading}>2. {props.t["Data Literacy Level"]}</h2>
                     <div className={styles.resultBox}>
                         <div className={styles.emoji}>{literacyLevel.emoji}</div>
                         <div>

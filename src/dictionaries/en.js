@@ -20,5 +20,6 @@ export default {
     "Novice": "Novice",
     "Apprentice": "Apprentice",
     "Practitioner": "Practitioner",
-    "Expert": "Expert"
+    "Expert": "Expert",
+    "Download as pdf": "Download as pdf"
 }
