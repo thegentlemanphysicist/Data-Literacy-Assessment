@@ -21,5 +21,6 @@ export default {
     "Apprentice": "Apprentice",
     "Practitioner": "Practitioner",
     "Expert": "Expert",
+    "Proposed Curriculum": "Proposed Curriculum",
     "Download as pdf": "Download as pdf"
 }

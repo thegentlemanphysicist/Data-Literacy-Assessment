@@ -17,3 +17,13 @@
 .footer img:last-of-type {
     object-position: right;
 }
+
+@media only screen and (max-width: 650px) {
+    .footer img {
+        max-width: 100%;
+    }
+
+    .footer img:last-of-type {
+        display: none;
+    }
+}

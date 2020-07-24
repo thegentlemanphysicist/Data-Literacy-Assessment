@@ -22,6 +22,11 @@ import Apprentice from './content/en/literacyLevels/Apprentice.md';
 import Practitioner from './content/en/literacyLevels/Practitioner.md';
 import Expert from './content/en/literacyLevels/Expert.md';
 
+import NoviceCourses from './content/en/courses/NoviceCourses.md';
+import ApprenticeCourses from './content/en/courses/ApprenticeCourses.md';
+import PractitionerCourses from './content/en/courses/PractitionerCourses.md';
+import ExpertCourses from './content/en/courses/ExpertCourses.md';
+
 export default function App_EN() {
     return (
         <Home
@@ -46,6 +51,12 @@ export default function App_EN() {
                     Apprentice,
                     Practitioner,
                     Expert
+                },
+                courses: {
+                    NoviceCourses,
+                    ApprenticeCourses,
+                    PractitionerCourses,
+                    ExpertCourses
                 }
             }}
         />

@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import html2pdf from 'html2pdf.js';
 import ReactMarkdown from 'react-markdown';
-import { getMarkdown } from '../helpers';
+import { getMarkdown, markdownLinkRenderer } from '../helpers';
 import personas from '../content/personas.json';
 import dataLiteracyLevels from '../content/dataLiteracyLevels.json';
 import styles from './Persona.module.css';
@@ -16,6 +16,7 @@ export default function Persona(props) {
     const [aboutDataLiteracyLevelMD, setAboutDataLiteracyLevelMD] = useState(null);
     const [personaMD, setPersonaMD] = useState(null);
     const [literacyLevelMD, setLiteracyLevelMD] = useState(null);
+    const [courseMD, setCourseMD] = useState(null);
 
     useEffect(() => {
         if (props.surveyResults){
@@ -75,6 +76,7 @@ export default function Persona(props) {
         setLiteracyLevel(level);
 
         getMarkdown(props.markdown.literacyLevels[level.title.replace(/\s/g, '')], setLiteracyLevelMD);
+        getMarkdown(props.markdown.courses[level.title.replace(/\s/g, '') + "Courses"], setCourseMD);
     }
 
     function saveAsPDF() {
@@ -90,7 +92,6 @@ export default function Persona(props) {
 
         html2pdf().set(options).from(root).save();
     }
-    
 
     return (
         <div className={styles.resultsPage}>
@@ -117,6 +118,8 @@ export default function Persona(props) {
                         </div>
                     </div>
                     <ReactMarkdown source={aboutDataLiteracyLevelMD}/>
+                    <h2 className={styles.resultTypeHeading}>3. {props.t["Proposed Curriculum"]}</h2>
+                    <ReactMarkdown source={courseMD} renderers={{"link": markdownLinkRenderer}}/>
                 </React.Fragment>
             }
         </div>

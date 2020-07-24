@@ -1,7 +1,13 @@
+import React from 'react';
+
 export async function getMarkdown(markdownFile, updateState) {
     markdownFile = await fetch(markdownFile);
     markdownFile = await markdownFile.text();
     updateState(markdownFile);
+}
+
+export function markdownLinkRenderer(props) {
+    return <a href={props.href} target="_blank">{props.children}</a>;
 }
 
 export const cspsColours = {

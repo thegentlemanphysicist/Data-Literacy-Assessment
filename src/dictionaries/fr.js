@@ -21,5 +21,6 @@ export default {
     "Apprentice": "Apprenti",
     "Practitioner": "Praticien",
     "Expert": "Expert",
+    "Proposed Curriculum": "Programme d'études proposé",
     "Download as pdf": "Télécharger en pdf"
 }

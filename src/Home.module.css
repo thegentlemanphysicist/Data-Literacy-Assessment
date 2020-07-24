@@ -35,3 +35,18 @@
     padding-bottom: 10px;
     border-bottom: solid var(--csps-grey) 1px;
 }
+
+@media only screen and (max-width: 650px) {
+    .contentContainer {
+        max-width: unset;
+        padding: 0 20px 35px 20px;
+    }
+
+    .introContent {
+        flex-direction: column;
+    }
+
+    .introContent div {
+        margin: unset;
+    }
+}
