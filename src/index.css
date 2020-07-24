@@ -45,6 +45,7 @@ button, .sv_nav input {
     border-color: #434E63 !important;
     color: white !important;
     background-color: var(--csps-grey) !important;
+    -webkit-appearance: none;
 }
 button.light {
     border-color: #C0C5CF !important;
