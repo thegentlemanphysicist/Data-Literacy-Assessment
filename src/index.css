@@ -30,6 +30,10 @@ p, li {
     font-size: 1.125rem;
 }
 
+a {
+    color: inherit;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;

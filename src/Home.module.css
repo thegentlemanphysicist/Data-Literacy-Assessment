@@ -36,17 +36,30 @@
     border-bottom: solid var(--csps-grey) 1px;
 }
 
-@media only screen and (max-width: 650px) {
+@media only screen and (max-width: 1400px) {
+    .contentContainer {
+        max-width: 80%;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
     .contentContainer {
         max-width: unset;
-        padding: 0 20px 35px 20px;
     }
+}
 
+@media only screen and (max-width: 1000px) {
     .introContent {
         flex-direction: column;
     }
 
     .introContent div {
         margin: unset;
+    }
+}
+
+@media only screen and (max-width: 650px) {
+    .contentContainer {
+        padding: 0 20px 35px 20px;
     }
 }
