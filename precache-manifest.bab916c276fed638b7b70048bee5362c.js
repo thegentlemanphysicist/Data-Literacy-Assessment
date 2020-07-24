@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7f53b14fab2d00cb67691fb817dedc12",
+    "revision": "4d1205123cae93b91258d671bd89a1b3",
     "url": "/Data-Literacy-Assessment/index.html"
   },
   {
-    "revision": "02af56fe3a4dce63902c",
+    "revision": "479bbbae047f9e32e868",
     "url": "/Data-Literacy-Assessment/static/css/2.3082a726.chunk.css"
   },
   {
-    "revision": "2cd9b600f306c4482182",
-    "url": "/Data-Literacy-Assessment/static/css/main.85b820b6.chunk.css"
+    "revision": "3e45c8ecbb59bcfdba5b",
+    "url": "/Data-Literacy-Assessment/static/css/main.e730dc7b.chunk.css"
   },
   {
-    "revision": "02af56fe3a4dce63902c",
-    "url": "/Data-Literacy-Assessment/static/js/2.facf6a98.chunk.js"
+    "revision": "479bbbae047f9e32e868",
+    "url": "/Data-Literacy-Assessment/static/js/2.fe1d1f66.chunk.js"
   },
   {
     "revision": "f2edbaaab385d5cd6a614e73e5fc7df2",
-    "url": "/Data-Literacy-Assessment/static/js/2.facf6a98.chunk.js.LICENSE.txt"
+    "url": "/Data-Literacy-Assessment/static/js/2.fe1d1f66.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2cd9b600f306c4482182",
-    "url": "/Data-Literacy-Assessment/static/js/main.15ddcb9c.chunk.js"
+    "revision": "3e45c8ecbb59bcfdba5b",
+    "url": "/Data-Literacy-Assessment/static/js/main.19c008cf.chunk.js"
   },
   {
     "revision": "2e45a4db5144ca18a130",
@@ -32,12 +32,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Data-Literacy-Assessment/static/media/Analyst.6d8fb8db.md"
   },
   {
+    "revision": "8196fcf9896114cc30db60efbb9864ab",
+    "url": "/Data-Literacy-Assessment/static/media/Analyst.8196fcf9.md"
+  },
+  {
+    "revision": "52a9ccf07d1609e5be458a2e8ea71361",
+    "url": "/Data-Literacy-Assessment/static/media/Apprentice.52a9ccf0.md"
+  },
+  {
     "revision": "b6b307221fd2da49fde9172205eb2436",
     "url": "/Data-Literacy-Assessment/static/media/Apprentice.b6b30722.md"
   },
   {
+    "revision": "57f8f55bff1f6cfbf235848d2c07a285",
+    "url": "/Data-Literacy-Assessment/static/media/ApprenticeCourses.57f8f55b.md"
+  },
+  {
+    "revision": "5c011228845801038877e536bc84716f",
+    "url": "/Data-Literacy-Assessment/static/media/ApprenticeCourses.5c011228.md"
+  },
+  {
+    "revision": "1569fb6f90d31232a69d86684201b961",
+    "url": "/Data-Literacy-Assessment/static/media/AssessmentResults.1569fb6f.md"
+  },
+  {
     "revision": "916b05d85efe7eb942436bf98db9c029",
     "url": "/Data-Literacy-Assessment/static/media/AssessmentResults.916b05d8.md"
+  },
+  {
+    "revision": "ae33999ce51063e5175cefcfcad39788",
+    "url": "/Data-Literacy-Assessment/static/media/DataLiteracyLevel.ae33999c.md"
   },
   {
     "revision": "ffc8e700ed6bad63c8235b9e828cfc37",
@@ -48,24 +72,56 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Data-Literacy-Assessment/static/media/DataPersona.87143dd9.md"
   },
   {
+    "revision": "dcf37ff7a71f61c3d847806ccda78028",
+    "url": "/Data-Literacy-Assessment/static/media/DataPersona.dcf37ff7.md"
+  },
+  {
     "revision": "9680321eeddb829e3178abd1d64fd6ce",
     "url": "/Data-Literacy-Assessment/static/media/DataScientist.9680321e.md"
+  },
+  {
+    "revision": "9d3a8186955f1e9f4383076cb62171ff",
+    "url": "/Data-Literacy-Assessment/static/media/DataScientist.9d3a8186.md"
   },
   {
     "revision": "1ca8b5e993dafb19dde21d8179b1fade",
     "url": "/Data-Literacy-Assessment/static/media/DataSteward.1ca8b5e9.md"
   },
   {
+    "revision": "b36ee9715d90ede8ff47a7a7dcb7b286",
+    "url": "/Data-Literacy-Assessment/static/media/DataSteward.b36ee971.md"
+  },
+  {
+    "revision": "8f030f5674280519f2d47bd78f77460e",
+    "url": "/Data-Literacy-Assessment/static/media/Executive.8f030f56.md"
+  },
+  {
     "revision": "c4be39164f9f84c6f57affad68b5e840",
     "url": "/Data-Literacy-Assessment/static/media/Executive.c4be3916.md"
+  },
+  {
+    "revision": "4775f903593ca5e3270e8dca19f14292",
+    "url": "/Data-Literacy-Assessment/static/media/Expert.4775f903.md"
   },
   {
     "revision": "82cf166dc2c93940942ba584f90d1911",
     "url": "/Data-Literacy-Assessment/static/media/Expert.82cf166d.md"
   },
   {
+    "revision": "001020184c0dfd14838f3f8331ef353b",
+    "url": "/Data-Literacy-Assessment/static/media/ExpertCourses.00102018.md"
+  },
+  {
+    "revision": "01717e2dfcf79061c8bda022fe19252f",
+    "url": "/Data-Literacy-Assessment/static/media/ExpertCourses.01717e2d.md"
+  },
+  {
     "revision": "24b0df3c6e4b81d972fafc5ec3845b09",
     "url": "/Data-Literacy-Assessment/static/media/FrontLine.24b0df3c.md"
+  },
+  {
+    "revision": "fbe874907a484907b419fa9d3592a1b5",
+    "url": "/Data-Literacy-Assessment/static/media/FrontLine.fbe87490.md"
   },
   {
     "revision": "641e412177a457d4115ef5aac237757d",
@@ -76,16 +132,44 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Data-Literacy-Assessment/static/media/HowDataLiterateAreYou.8e97a193.md"
   },
   {
+    "revision": "1fd59ad0eccb8be0711140dc00667c82",
+    "url": "/Data-Literacy-Assessment/static/media/IT.1fd59ad0.md"
+  },
+  {
     "revision": "b6fcbf7d38290221b61c577c9927b7a4",
     "url": "/Data-Literacy-Assessment/static/media/IT.b6fcbf7d.md"
+  },
+  {
+    "revision": "2f96af4b0c1dacbfce954e17aa8e6f54",
+    "url": "/Data-Literacy-Assessment/static/media/Novice.2f96af4b.md"
   },
   {
     "revision": "ca3d026261367d8c0b35cfba224d79ab",
     "url": "/Data-Literacy-Assessment/static/media/Novice.ca3d0262.md"
   },
   {
+    "revision": "d3fc873d19cd03f863cd2388af738305",
+    "url": "/Data-Literacy-Assessment/static/media/NoviceCourses.d3fc873d.md"
+  },
+  {
+    "revision": "f6e12868353db1ff4d663b90c9e33413",
+    "url": "/Data-Literacy-Assessment/static/media/NoviceCourses.f6e12868.md"
+  },
+  {
+    "revision": "4c3ce7400bf85d1b09e91e22da13d016",
+    "url": "/Data-Literacy-Assessment/static/media/Practitioner.4c3ce740.md"
+  },
+  {
     "revision": "acf5ab80dc40d38355c66210685a9883",
     "url": "/Data-Literacy-Assessment/static/media/Practitioner.acf5ab80.md"
+  },
+  {
+    "revision": "33f26a4a4557bdc16de61a3cb1f29965",
+    "url": "/Data-Literacy-Assessment/static/media/PractitionerCourses.33f26a4a.md"
+  },
+  {
+    "revision": "782807869104a370c081a2a4b9b49a87",
+    "url": "/Data-Literacy-Assessment/static/media/PractitionerCourses.78280786.md"
   },
   {
     "revision": "6547cb60a6d38ee8c74c914ff6d08fee",
