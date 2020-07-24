@@ -11,6 +11,10 @@
     font-family: Helvetica, Arial, sans-serif !important;
 }
 
+.sv_q_radiogroup_label {
+    color: var(--light-text-color);
+}
+
 .sv_next_btn, .sv_progress {
     font-size: 0.75rem !important;
 }
