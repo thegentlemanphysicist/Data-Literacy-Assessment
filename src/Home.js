@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import ChildLock from 'react-child-lock';
+import { GCSplashScreen } from 'gc-tortilla';
 import ReactMarkdown from 'react-markdown';
 import { getMarkdown } from './helpers';
 import Header from './components/Header';
@@ -28,6 +29,13 @@ export default function Home(props) {
     return (
         <div className={styles.home} style={{backgroundImage: `url(${bg})`}}>
             <ChildLock password="beta" background={{image: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2252&q=80"}}/>
+            <GCSplashScreen
+                routes={{
+                    english: "/Data-Literacy-Assessment/",
+                    french: "/Data-Literacy-Assessment/fr"
+                }}
+                backgroundImage={"https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2252&q=80"}
+            />
             <Header/>
             <Toolbar t={props.t} startedSurvey={startedSurvey}/>
             {!surveyResults &&
