@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed6367c6c89bbbdc4d69919a0f9b9af5",
+    "revision": "cececde1a4e1c5b25acd95aa09dbc97b",
     "url": "/Data-Literacy-Assessment/index.html"
   },
   {
-    "revision": "ea50edc6a7b2073b2b63",
+    "revision": "348140bbc4b107c0c81a",
     "url": "/Data-Literacy-Assessment/static/css/2.f8911f6d.chunk.css"
   },
   {
-    "revision": "2808207a95c7800758e9",
+    "revision": "d64b110a06286b0d5804",
     "url": "/Data-Literacy-Assessment/static/css/main.fb4d85f7.chunk.css"
   },
   {
-    "revision": "ea50edc6a7b2073b2b63",
-    "url": "/Data-Literacy-Assessment/static/js/2.14df8954.chunk.js"
+    "revision": "348140bbc4b107c0c81a",
+    "url": "/Data-Literacy-Assessment/static/js/2.ec56536a.chunk.js"
   },
   {
     "revision": "0c76e3e3a3a5f26dd55eaf7877c6df1c",
-    "url": "/Data-Literacy-Assessment/static/js/2.14df8954.chunk.js.LICENSE.txt"
+    "url": "/Data-Literacy-Assessment/static/js/2.ec56536a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2808207a95c7800758e9",
-    "url": "/Data-Literacy-Assessment/static/js/main.6a4a4f1b.chunk.js"
+    "revision": "d64b110a06286b0d5804",
+    "url": "/Data-Literacy-Assessment/static/js/main.81d66855.chunk.js"
   },
   {
     "revision": "e2feefa6f9281837df24",
