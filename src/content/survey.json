@@ -6,7 +6,10 @@
        {
         "type": "dropdown",
         "name": "basic_department",
-        "title": "Which department do you work for?",
+        "title": {
+            "default": "Which department do you work for?",
+            "fr": "Pour quel service travaillez-vous ?"
+        },
         "hideNumber": true,
         "isRequired": true,
         "choices": [

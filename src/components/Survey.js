@@ -29,6 +29,7 @@ export default function Survey(props) {
     SurveyJS.StylesManager.applyTheme();
 
     var model = new SurveyJS.Model(SurveyJSON);
+    model.locale = props.t.getLocale;
 
     function restartSurvey() {
         props.startSurvey(false);

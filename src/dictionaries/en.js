@@ -2,6 +2,7 @@ export default {
     "getLocale": "en",
     "getOppositeLocale": "fr",
     "getOppositeLang": "Français",
+    "getSwitchLangWarning": "Changer de langue maintenant fera redémarrer l'enquête, êtes-vous sûr de vouloir le faire ?\n\nSwitching languages now will cause the survey to restart, are you sure you'd like to do this?",
     "Data Literacy and Persona Assessment": "Data Literacy and Persona Assessment",
     "How Data Literate Are You?": "How Data Literate Are You?",
     "Purpose": "Purpose",

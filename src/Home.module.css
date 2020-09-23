@@ -60,6 +60,6 @@
 
 @media only screen and (max-width: 650px) {
     .contentContainer {
-        padding: 0 20px 35px 20px;
+        padding: 20px 20px 35px 20px;
     }
 }
