@@ -1,4 +1,4 @@
-Gère les fonds de données et l'accès aux environnements d'analyse. Ils identifient, analysent et résolvent les problèmes de qualité des données et assurent la liaison entre les entreprises et la technologie.
+Gère les fonds de données et accède aux environnements analytiques. Dégage, analyse et résout les problèmes de qualité des données et assure la liaison entre les opérations et la technologie.
 
-Où en sont-ils dans le GC ?
-* Ils peuvent être centralisés dans des équipes scientifiques (par exemple dans un bureau de données en chef) ou intégrés dans des domaines de programmes/politiques.
+Quel est son secteur au gouvernement du Canada?
+* Équipe organisationnelle centralisée de science des données (p. ex. dans un bureau principal des données) ou équipe intégrée aux secteurs des programmes ou des politiques.

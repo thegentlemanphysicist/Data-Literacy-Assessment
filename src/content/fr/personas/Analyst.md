@@ -1,6 +1,6 @@
-Applique les connaissances analytiques aux opérations commerciales. Recommande des améliorations aux systèmes, processus, politiques, etc.
+Applique les renseignements utiles issus des analyses aux activités opérationnelles. Recommande des façons d’améliorer les systèmes, les processus, les politiques, etc.
 
-Où en sont-ils au sein du GC ?
-* Dans les services d'entreprise comme les finances, les ressources humaines, les achats, etc.
-* Soutien à la gestion des personnes/des programmes dans tous les domaines
-* Dans les domaines politiques
+Quel est son secteur au gouvernement du Canada?
+* Services intégrés comme les finances, les ressources humaines, l’approvisionnement, etc.;
+* Appui à la gestion des programmes ou du personnel dans tous les secteurs;
+* Secteurs des politiques.

@@ -1,10 +1,10 @@
-Vous êtes une autorité sur l'utilisation des données. Vous avez une connaissance approfondie des différents types de sources de données possibles et savez quand un problème ou un besoin donné ne peut être résolu avec les données existantes.  Vous êtes en mesure de trouver et d'accéder à des données supplémentaires grâce à des méthodes sophistiquées (par exemple, des racleurs de données / scripts automatisés) et pouvez les convertir dans différents formats qui peuvent être utilisés pour un traitement et une analyse ultérieurs. Vous remettez en question les résultats et les résultats des données et pouvez les traduire avec succès en connaissances exploitables.
+Vous êtes spécialiste en matière d’utilisation des données. Vous connaissez très bien les divers types de sources de données possibles et savez quand un problème ou un besoin ne peut pas être géré avec les données existantes. Vous êtes capable de trouver de nouvelles données à l’aide de méthodes perfectionnées (p. ex. grattages ou scripts automatisés des données) et pouvez les convertir en différents formats pouvant être utilisés pour des analyses et des traitements plus poussés. Vous remettez en question les sorties des données et les résultats et pouvez traduire les données en connaissances utilisables.
 
-Des compétences sur lesquelles vous pouvez vous concentrer : 
+Compétences à acquérir :
 * Leadership
 * Mentorat
 * Réflexion stratégique
 * Gestion de projet
-* Engagement des parties prenantes
-* Formation continue sur la visualisation et la narration
-* Une expertise technique de pointe
+* Mobilisation des intervenants
+* Apprentissage continu sur la visualisation et la communication narrative
+* Expertise technique de pointe

@@ -1,4 +1,4 @@
-Utilise des techniques d'analyse et de modélisation avancées pour transformer les données brutes en informations exploitables, et développe des produits et des solutions basés sur les données.
+Utilise des techniques d’analyse et de modélisation avancées pour transformer les données brutes en renseignements utiles, et conçoit des solutions et des produits à partir des données.
 
-Où en sont-ils dans le GC ?
-* Peut être centralisé dans une équipe scientifique organisationnelle (par exemple, dans un bureau de données en chef) ou intégré dans des domaines de programmes/politiques
+Quel est son secteur au gouvernement du Canada?
+* Équipe organisationnelle centralisée de science des données (p. ex. dans un bureau principal des données) ou équipe intégrée aux secteurs des programmes ou des politiques.
