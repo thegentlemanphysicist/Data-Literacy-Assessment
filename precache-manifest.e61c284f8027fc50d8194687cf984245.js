@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d52175f732bd9dbd7b5340064fb5f53c",
+    "revision": "9cb3577e90eee5fe19f329b825113082",
     "url": "/Data-Literacy-Assessment/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Data-Literacy-Assessment/static/css/2.f8911f6d.chunk.css"
   },
   {
-    "revision": "4d8d0a0a9ce99aa4b294",
+    "revision": "4332a6bf0fc07f43eced",
     "url": "/Data-Literacy-Assessment/static/css/main.fb4d85f7.chunk.css"
   },
   {
@@ -20,24 +20,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Data-Literacy-Assessment/static/js/2.7ca8f9c6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4d8d0a0a9ce99aa4b294",
-    "url": "/Data-Literacy-Assessment/static/js/main.1b5ec7cb.chunk.js"
+    "revision": "4332a6bf0fc07f43eced",
+    "url": "/Data-Literacy-Assessment/static/js/main.7ad0452c.chunk.js"
   },
   {
     "revision": "e2feefa6f9281837df24",
     "url": "/Data-Literacy-Assessment/static/js/runtime-main.47e94288.js"
   },
   {
+    "revision": "66b56225f80ba791800470cb34676108",
+    "url": "/Data-Literacy-Assessment/static/media/Analyst.66b56225.md"
+  },
+  {
     "revision": "6d8fb8db9add8aeada0b0e8a71714505",
     "url": "/Data-Literacy-Assessment/static/media/Analyst.6d8fb8db.md"
   },
   {
-    "revision": "8196fcf9896114cc30db60efbb9864ab",
-    "url": "/Data-Literacy-Assessment/static/media/Analyst.8196fcf9.md"
-  },
-  {
-    "revision": "52a9ccf07d1609e5be458a2e8ea71361",
-    "url": "/Data-Literacy-Assessment/static/media/Apprentice.52a9ccf0.md"
+    "revision": "39c19b4da768f44e1791169c94ed72c9",
+    "url": "/Data-Literacy-Assessment/static/media/Apprentice.39c19b4d.md"
   },
   {
     "revision": "b6b307221fd2da49fde9172205eb2436",
@@ -76,32 +76,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Data-Literacy-Assessment/static/media/DataPersona.dcf37ff7.md"
   },
   {
-    "revision": "9680321eeddb829e3178abd1d64fd6ce",
-    "url": "/Data-Literacy-Assessment/static/media/DataScientist.9680321e.md"
+    "revision": "24eec5da7368dc1196cd2fc802a30015",
+    "url": "/Data-Literacy-Assessment/static/media/DataScientist.24eec5da.md"
   },
   {
-    "revision": "9d3a8186955f1e9f4383076cb62171ff",
-    "url": "/Data-Literacy-Assessment/static/media/DataScientist.9d3a8186.md"
+    "revision": "9680321eeddb829e3178abd1d64fd6ce",
+    "url": "/Data-Literacy-Assessment/static/media/DataScientist.9680321e.md"
   },
   {
     "revision": "1ca8b5e993dafb19dde21d8179b1fade",
     "url": "/Data-Literacy-Assessment/static/media/DataSteward.1ca8b5e9.md"
   },
   {
-    "revision": "b36ee9715d90ede8ff47a7a7dcb7b286",
-    "url": "/Data-Literacy-Assessment/static/media/DataSteward.b36ee971.md"
+    "revision": "f31ae3cc0227d7b6a6e743beba595c7e",
+    "url": "/Data-Literacy-Assessment/static/media/DataSteward.f31ae3cc.md"
   },
   {
-    "revision": "8f030f5674280519f2d47bd78f77460e",
-    "url": "/Data-Literacy-Assessment/static/media/Executive.8f030f56.md"
+    "revision": "183060796dd57af5cc112918698aadb3",
+    "url": "/Data-Literacy-Assessment/static/media/Executive.18306079.md"
   },
   {
     "revision": "c4be39164f9f84c6f57affad68b5e840",
     "url": "/Data-Literacy-Assessment/static/media/Executive.c4be3916.md"
   },
   {
-    "revision": "4775f903593ca5e3270e8dca19f14292",
-    "url": "/Data-Literacy-Assessment/static/media/Expert.4775f903.md"
+    "revision": "00ecd8cfb48bd33b4d255a674833bc05",
+    "url": "/Data-Literacy-Assessment/static/media/Expert.00ecd8cf.md"
   },
   {
     "revision": "82cf166dc2c93940942ba584f90d1911",
@@ -120,8 +120,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Data-Literacy-Assessment/static/media/FrontLine.24b0df3c.md"
   },
   {
-    "revision": "fbe874907a484907b419fa9d3592a1b5",
-    "url": "/Data-Literacy-Assessment/static/media/FrontLine.fbe87490.md"
+    "revision": "2532c36b13a410a488c756320a7cc8d9",
+    "url": "/Data-Literacy-Assessment/static/media/FrontLine.2532c36b.md"
   },
   {
     "revision": "641e412177a457d4115ef5aac237757d",
@@ -132,16 +132,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Data-Literacy-Assessment/static/media/HowDataLiterateAreYou.8e97a193.md"
   },
   {
-    "revision": "1fd59ad0eccb8be0711140dc00667c82",
-    "url": "/Data-Literacy-Assessment/static/media/IT.1fd59ad0.md"
+    "revision": "6b138f5c98672dc83f1992174e191f64",
+    "url": "/Data-Literacy-Assessment/static/media/IT.6b138f5c.md"
   },
   {
     "revision": "b6fcbf7d38290221b61c577c9927b7a4",
     "url": "/Data-Literacy-Assessment/static/media/IT.b6fcbf7d.md"
   },
   {
-    "revision": "2f96af4b0c1dacbfce954e17aa8e6f54",
-    "url": "/Data-Literacy-Assessment/static/media/Novice.2f96af4b.md"
+    "revision": "5af6e198496573cd86113cb4b2632762",
+    "url": "/Data-Literacy-Assessment/static/media/Novice.5af6e198.md"
   },
   {
     "revision": "ca3d026261367d8c0b35cfba224d79ab",
@@ -156,12 +156,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Data-Literacy-Assessment/static/media/NoviceCourses.f6e12868.md"
   },
   {
-    "revision": "4c3ce7400bf85d1b09e91e22da13d016",
-    "url": "/Data-Literacy-Assessment/static/media/Practitioner.4c3ce740.md"
-  },
-  {
     "revision": "acf5ab80dc40d38355c66210685a9883",
     "url": "/Data-Literacy-Assessment/static/media/Practitioner.acf5ab80.md"
+  },
+  {
+    "revision": "ee04727bfd590d5c862d1569a7ed9781",
+    "url": "/Data-Literacy-Assessment/static/media/Practitioner.ee04727b.md"
   },
   {
     "revision": "33f26a4a4557bdc16de61a3cb1f29965",
