@@ -1,9 +1,7 @@
 import React, { useEffect } from 'react';
-import ReactDOMServer from "react-dom/server";
 import * as SurveyJS from "survey-react";
 import {cspsColours} from '../helpers';
 import SurveyJSON from '../content/survey.json';
-import Decoration from '../content/images/decoration.png';
 import './customSurveyJS.css';
 import "survey-react/survey.css";
 import styles from './Survey.module.css';
@@ -36,33 +34,7 @@ export default function Survey(props) {
     }
 
     function onComplete(result) {
-        props.setSurveyResults(getSurveyScores(result.data, result.toJSON()));
-    }
-
-    function getQuestionArray(survey) {
-        console.log(survey);
-        let questions = [];
-        survey.pages.forEach(page => {
-            questions = questions.concat(page.elements);
-        });
-        return questions;
-    }
-    
-    function getSurveyScores(results, survey) {
-
-        let questions = getQuestionArray(survey);
-
-        for (let answer in results){
-
-            let question = questions.find(q => q.name === answer);
-
-            if (question.type === "radiogroup"){
-                results[answer] = question.choices.indexOf(results[answer]);
-            }
-
-        }
-
-        return results;
+        props.setSurveyResults(result.data);
     }
 
     return (
