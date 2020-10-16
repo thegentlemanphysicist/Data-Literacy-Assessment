@@ -48,7 +48,7 @@ export default function Survey(props) {
             body: urlEncoded
         };
 
-        let response = await fetch("http://localhost:5000/data-literacy-assessment/us-central1/storeResults", options);
+        let response = await fetch("https://us-central1-data-literacy-assessment.cloudfunctions.net/storeResults", options);
         response = await response.text();
         console.log(response);
     }
