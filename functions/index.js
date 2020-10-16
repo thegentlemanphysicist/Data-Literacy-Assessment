@@ -8,7 +8,7 @@ admin.initializeApp();
 
 exports.storeResults = functions.https.onRequest((request, response) => {
 
-    response.set('Access-Control-Allow-Origin', "https://dis-sin.github.io/Data-Literacy-Assessment/")
+    response.set('Access-Control-Allow-Origin', "https://dis-sin.github.io")
 
     let results = JSON.parse(request.body.results);
 
