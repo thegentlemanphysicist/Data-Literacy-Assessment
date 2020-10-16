@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import * as SurveyJS from "survey-react";
-import {cspsColours} from '../helpers';
+import {cspsColours, getUUID} from '../helpers';
 import SurveyJSON from '../content/survey.json';
 import './customSurveyJS.css';
 import "survey-react/survey.css";
@@ -33,15 +33,28 @@ export default function Survey(props) {
         props.startSurvey(false);
     }
 
-    function onComplete(result) {
+    async function onComplete(result) {
         props.setSurveyResults(result.data);
+
+        let urlEncoded = new URLSearchParams();
+        urlEncoded.append("results", JSON.stringify(result.data));
+        urlEncoded.append("uuid", getUUID());
+
+        let options = {
+            method: 'POST',
+            headers: {
+                'Content-Type': "application/x-www-form-urlencoded"
+            },
+            body: urlEncoded
+        };
+
+        let response = await fetch("http://localhost:5000/data-literacy-assessment/us-central1/storeResults", options);
+        response = await response.text();
+        console.log(response);
     }
 
     return (
         <div className={styles.container}>
-            {/* <div className={styles.decoration} style={{
-                backgroundImage: `url(${Decoration})`
-            }}/> */}
             <div className={styles.survey}>
                 <SurveyJS.Survey
                     model={model}
