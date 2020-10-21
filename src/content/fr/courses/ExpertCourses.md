@@ -1,41 +1,23 @@
 **Leadership**
 
-[Effective Leadership (Z021)](https://learn-apprendre.csps-efpc.gc.ca/application/en/content/effective-leadership-z021) (GCCampus) | Online Self-Paced | 1 hr
+[Un leadership efficace (Z021)](https://learn-apprendre.csps-efpc.gc.ca/application/en/content/effective-leadership-z021) (GCcampus) | en ligne à rythme libre | 1 heure
 
-Dans ce module de formation, vous aurez l'occasion d'explorer ces compétences essentielles en matière de leadership, telles que la gestion des défis posés par les conflits interpersonnels et la négativité, les compétences en matière d'encadrement et de mentorat.
+Dans ce module de formation, vous aurez l&#39;occasion d&#39;explorer les compétences essentielles en leadership, comme la gestion des défis posés par la négativité et les conflits interpersonnels, et les compétences en matière de coaching et de mentorat.
 
-[Évaluer vos propres performances en matière de leadership (G009)](https://learn-apprendre.csps-efpc.gc.ca/application/en/content/assessing-your-own-leadership-performance-g009) (GCCampus) | En ligne à son rythme | 0,5 h
+[Évaluer ses propres performances en leadership (G009)](https://learn-apprendre.csps-efpc.gc.ca/application/fr/content/evaluer-ses-propres-performances-en-leadership-g009) (GCcampus) | en ligne à rythme libre | 30 minutes
 
-Dans ce cours, vous apprendrez à auto-évaluer vos aptitudes et compétences en matière de leadership. Vous apprendrez également à accroître votre motivation et à gérer votre propre apprentissage en créant un plan de développement du leadership.
+Dans ce cours, vous apprendrez comment évaluer vos propres compétences en leadership. Vous aurez également accès à des techniques qui vous permettront d&#39;accroître votre motivation et de gérer votre apprentissage en créant un plan de perfectionnement de leadership.
 
-[Devenir un leader inspirant (G010)](https://learn-apprendre.csps-efpc.gc.ca/application/en/content/becoming-inspirational-leader-g010) (GCCampus) | En ligne à son rythme | 0,5 h
+[Devenir un leader inspirant (G010)](https://learn-apprendre.csps-efpc.gc.ca/application/fr/content/devenir-un-leader-inspirant-g010) (GCcampus) | en ligne à rythme libre | 30 minutes
 
-Dans ce cours, vous apprendrez les caractéristiques que les gens recherchent chez un leader inspirant, les traits et comportements que les leaders inspirants illustrent, le rôle des messages clairs, crédibles et persuasifs dans le leadership inspirant.
+Dans ce cours, vous découvrirez les caractéristiques que les gens recherchent chez un leader inspirant. Vous découvrirez également les traits de caractère et les comportements dont il doit faire preuve. Enfin, vous découvrirez l&#39;importance de messages clairs, crédibles et convaincants dans un leadership inspirant.
 
-[Leadership Essentials : Leading Change (X024)](https://learn-apprendre.csps-efpc.gc.ca/application/en/content/leadership-essentials-leading-change-x024) (GCCampus) | Online Self-Paced | 1 hr
+[L&#39;essentiel du leadership :](https://learn-apprendre.csps-efpc.gc.ca/application/en/content/leadership-essentials-leading-change-x024)[Gérer le changement (X024)](https://learn-apprendre.csps-efpc.gc.ca/application/fr/content/lessentiel-du-leadership-gerer-le-changement-x024) (GCcampus) | en ligne à rythme libre | 1 heure
 
-Ce cours vous fournit des stratégies pour diriger les changements au sein d'une organisation, y compris des approches efficaces pour introduire et communiquer le changement, des stratégies pratiques pour traiter les sources de résistance des employés au changement, et pour supprimer les obstacles organisationnels afin d'assurer la transition.
+Ce cours propose des stratégies pour conduire le changement au sein de l&#39;entreprise. Il contient des approches efficaces pour présenter et communiquer sur le changement. Il propose également des stratégies pratiques pour gérer les causes de la résistance au changement de la part des employés, ainsi que pour supprimer les obstacles générés par l&#39;entreprise elle-même. Ces stratégies vous permettent d&#39;accompagner la transition jusqu&#39;à son terme.
 
-**Pensée stratégique**
+**Réflexion stratégique**
 
-(https://learn-apprendre.csps-efpc.gc.ca/application/en/content/developing-strategic-thinking-skill-seeing-big-picture-course-x007) (GCCampus) | Introduction | 1 h
+[Développer son esprit stratégique dans le cadre d&#39;une vision d&#39;ensemble (X007)](https://learn-apprendre.csps-efpc.gc.ca/application/fr/content/developper-son-esprit-strategique-dans-le-cadre-dune-vision-densemble-x007) (GCcampus) | introduction | 1 heure
 
-Ce cours vise à développer la réflexion stratégique, à décrire comment la compréhension de la chaîne de valeur d'une organisation peut conduire à une mise en œuvre plus efficace.
-
-**Apprentissage continu sur la visualisation et la narration**
-
-[Visualisation des données avec R](https://cognitiveclass.ai/courses/data-visualization-with-r/)
-
-[Visualisation des données avec Python](https://cognitiveclass.ai/courses/data-visualization-with-python/)
-
-**Expertise technique de pointe**
-
-[Apprentissage approfondi](https://cognitiveclass.ai/learn/deep-learning/) (IBM/Big Data University)
-
-[Modélisation prédictive] (https://cognitiveclass.ai/courses/predictive-modeling-fundamentals/)
-
-[Advanced Machine Learning](https://www.coursera.org/specializations/aml) (Coursera/ National Research University Higher School of Economics) 
-
-[Données, modèles et décisions en matière d'analyse commerciale](https://www.edx.org/course/data-models-decisions-business-analytics-columbiax-bamm-102x-1) (Columbia/Coursera) *Gratuit
-
-[Business Analysis : Essential Modeling Skills & Techniques](https://www.udemy.com/visual-modeling-master-class/) (Udemy) *certains frais s'appliquent
+Ce cours vise à développer votre esprit stratégique et explique comment la compréhension de la chaîne de valeur d&#39;une organisation peut se traduire par une mise en œuvre plus efficace.
