@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9f05b22eed7593126fe0a69e70844be5",
+    "revision": "7abe8c364c7d8da53276833140e030b2",
     "url": "/Data-Literacy-Assessment/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Data-Literacy-Assessment/static/css/2.f8911f6d.chunk.css"
   },
   {
-    "revision": "a3d3ef4638e6ada74bdd",
+    "revision": "8dddb922f4c04e2fce90",
     "url": "/Data-Literacy-Assessment/static/css/main.fb4d85f7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Data-Literacy-Assessment/static/js/2.5de0708f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a3d3ef4638e6ada74bdd",
-    "url": "/Data-Literacy-Assessment/static/js/main.bc53234c.chunk.js"
+    "revision": "8dddb922f4c04e2fce90",
+    "url": "/Data-Literacy-Assessment/static/js/main.1808dbd8.chunk.js"
   },
   {
     "revision": "e2feefa6f9281837df24",
@@ -44,12 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Data-Literacy-Assessment/static/media/Apprentice.b6b30722.md"
   },
   {
-    "revision": "57f8f55bff1f6cfbf235848d2c07a285",
-    "url": "/Data-Literacy-Assessment/static/media/ApprenticeCourses.57f8f55b.md"
+    "revision": "9889086cbeac1c8de0dc63796bbf0df4",
+    "url": "/Data-Literacy-Assessment/static/media/ApprenticeCourses.9889086c.md"
   },
   {
-    "revision": "5c011228845801038877e536bc84716f",
-    "url": "/Data-Literacy-Assessment/static/media/ApprenticeCourses.5c011228.md"
+    "revision": "eff2e31c6032f2afa2718bf41d5dca6e",
+    "url": "/Data-Literacy-Assessment/static/media/ApprenticeCourses.eff2e31c.md"
   },
   {
     "revision": "1569fb6f90d31232a69d86684201b961",
@@ -108,12 +108,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Data-Literacy-Assessment/static/media/Expert.82cf166d.md"
   },
   {
-    "revision": "001020184c0dfd14838f3f8331ef353b",
-    "url": "/Data-Literacy-Assessment/static/media/ExpertCourses.00102018.md"
+    "revision": "5f6d6b77fdce9bf8e7d5599f4bb90bbc",
+    "url": "/Data-Literacy-Assessment/static/media/ExpertCourses.5f6d6b77.md"
   },
   {
-    "revision": "01717e2dfcf79061c8bda022fe19252f",
-    "url": "/Data-Literacy-Assessment/static/media/ExpertCourses.01717e2d.md"
+    "revision": "600282a1c852d82317dd39e611986b33",
+    "url": "/Data-Literacy-Assessment/static/media/ExpertCourses.600282a1.md"
   },
   {
     "revision": "24b0df3c6e4b81d972fafc5ec3845b09",
@@ -148,12 +148,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Data-Literacy-Assessment/static/media/Novice.ca3d0262.md"
   },
   {
-    "revision": "d3fc873d19cd03f863cd2388af738305",
-    "url": "/Data-Literacy-Assessment/static/media/NoviceCourses.d3fc873d.md"
+    "revision": "0e6904a63164bcb0afe8b943955ad531",
+    "url": "/Data-Literacy-Assessment/static/media/NoviceCourses.0e6904a6.md"
   },
   {
-    "revision": "f6e12868353db1ff4d663b90c9e33413",
-    "url": "/Data-Literacy-Assessment/static/media/NoviceCourses.f6e12868.md"
+    "revision": "3e9408be69baf9bf398875e263d1e319",
+    "url": "/Data-Literacy-Assessment/static/media/NoviceCourses.3e9408be.md"
   },
   {
     "revision": "acf5ab80dc40d38355c66210685a9883",
@@ -164,12 +164,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Data-Literacy-Assessment/static/media/Practitioner.ee04727b.md"
   },
   {
-    "revision": "33f26a4a4557bdc16de61a3cb1f29965",
-    "url": "/Data-Literacy-Assessment/static/media/PractitionerCourses.33f26a4a.md"
+    "revision": "db4402b1ac181e9ce4deb01a96bcb87b",
+    "url": "/Data-Literacy-Assessment/static/media/PractitionerCourses.db4402b1.md"
   },
   {
-    "revision": "782807869104a370c081a2a4b9b49a87",
-    "url": "/Data-Literacy-Assessment/static/media/PractitionerCourses.78280786.md"
+    "revision": "ebb0c293b9592d149f614542cfb9efc3",
+    "url": "/Data-Literacy-Assessment/static/media/PractitionerCourses.ebb0c293.md"
   },
   {
     "revision": "6547cb60a6d38ee8c74c914ff6d08fee",
